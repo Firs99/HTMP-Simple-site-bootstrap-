@@ -1,0 +1,18 @@
+.header {
+    font-size: 72px;
+}
+.paragraph {
+    font-size: 18px;
+}
+.small_txt {
+    font-size: 12px;
+}
+.img-padding {
+padding-top: 20px;
+padding-left: 20px;
+}
+.footer_p {
+margin-top: 10px;
+margin-bottom: 10px;
+font-size: 12px;
+}
